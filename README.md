@@ -34,4 +34,4 @@ I'm learning JavaScript and Node.js with the goal of becoming a back-end develop
 
 ### Socials
 
-<a href="https://instagram.com/gui.dev1/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://instagram.com/gui.dev1/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank> </a>
